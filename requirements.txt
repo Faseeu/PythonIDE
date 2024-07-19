@@ -1,0 +1,5 @@
+kivy
+mypy
+ruff
+black
+jedi
