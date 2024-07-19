@@ -1,0 +1,30 @@
+mobile_ide/
+├── main.py
+├── Cargo.toml
+├── src/
+│   ├── lib.rs
+├── ui/
+│   ├── editor.py
+│   ├── terminal.py
+│   ├── directory_structure.py
+│   ├── __init__.py
+├── logic/
+│   ├── static_analysis.py
+│   ├── linter.py
+│   ├── formatter.py
+│   ├── autocomplete.py
+│   ├── __init__.py
+├── data/
+│   ├── settings.py
+│   ├── __init__.py
+├── integration/
+│   ├── chromium_web_driver.py
+│   ├── __init__.py
+├── config/
+│   ├── config.py
+│   ├── __init__.py
+├── assets/
+│   ├── icons/
+│   ├── images/
+├── requirements.txt
+├── README.md
