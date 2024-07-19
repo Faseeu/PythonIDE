@@ -1,0 +1,8 @@
+[package]
+name = "mobile_ide"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+pyo3 = { version = "0.15.1", features = ["extension-module"] }
+maturin = "0.12.18"
